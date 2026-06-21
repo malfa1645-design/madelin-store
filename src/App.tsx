@@ -13,7 +13,7 @@ const INITIAL_PRODUCTS: Product[] = [
     name: "سيروم الرموش والحواجب",
     price: 8,
     description: "يعزز كثافة الحواجب والرموش ويحفز نمو الشعر بشكل طبيعي. يرطب ويغذي من الجذور، آمن وفعال للاستخدام اليومي.",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop",
+    image: "https://ciuczjgcseokjafxaudv.supabase.co/storage/v1/object/public/products/lash-brow-serum.jpg.jpeg",
     category: "علاجي"
   },
   {
@@ -21,7 +21,7 @@ const INITIAL_PRODUCTS: Product[] = [
     name: "جل الحواجب الشفاف",
     price: 7,
     description: "تركيبة شفافة تثبت الحواجب وتمنحها مظهراً مرتباً وطبيعياً طوال اليوم. تثبيت قوي، لمسة طبيعية، لا يترك تكتلات.",
-    image: "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?q=80&w=800&auto=format&fit=crop",
+    image: "https://ciuczjgcseokjafxaudv.supabase.co/storage/v1/object/public/products/eyebrow-gel.jpg.jpeg",
     category: "تجميلي"
   },
   {
@@ -29,7 +29,7 @@ const INITIAL_PRODUCTS: Product[] = [
     name: "سيروم الأظافر المغذي",
     price: 8,
     description: "تركيبة مغذية تقوي الأظافر وتمنحها مظهراً صحياً ولمعاناً طبيعياً. يقوي الأظافر، يرطب بعمق، ويحمي من التكسر.",
-    image: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=800&auto=format&fit=crop",
+    image: "https://ciuczjgcseokjafxaudv.supabase.co/storage/v1/object/public/products/nail-serum.jpg.jpeg",
     category: "علاجي"
   }
 ];
